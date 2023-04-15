@@ -1,5 +1,6 @@
 {
     "name": "Arrow Battle 2-4 Player",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
